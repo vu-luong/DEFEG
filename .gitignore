@@ -1,0 +1,9 @@
+.DS_Store
+.idea
+*__pycache__*
+result/*
+data_path.py
+vlpso_result/*
+vlpso_result_10_trees/*
+vlpso_result_None_trees_/*
+docs/*

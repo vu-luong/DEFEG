@@ -1,6 +1,6 @@
-# Weighted Deep Forest
+# DEFEG: Deep Ensemble with Weighted Feature Generation
 
-> Apply variable-length PSO to find the optimal structure of Weighted Random Forest
+> Apply variable-length PSO to find the optimal structure of Weighted Deep Ensemble
 
 ## Related Projects
 
